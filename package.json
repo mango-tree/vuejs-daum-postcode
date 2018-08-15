@@ -1,0 +1,50 @@
+{
+  "name": "vuejs-daum-postcode",
+  "version": "1.0.0",
+  "description": "daum postcode service made by Vue component",
+  "author": { "name": "mango-tree", "email": "k.mingyu.95@gmail.com", "url": "http://mango-tree.github.io" },
+  "private": true,
+  "main": "./lib/vuejs-daum-postcode.js",
+  "scripts": {
+    "build": "webpack --config ./webpack.config.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "babel-core": "^6.22.1",
+    "babel-eslint": "^8.2.1",
+    "babel-helper-vue-jsx-merge-props": "^2.0.3",
+    "babel-loader": "^7.1.1",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-runtime": "^6.22.0",
+    "babel-plugin-transform-vue-jsx": "^3.5.0",
+    "babel-preset-env": "^1.3.2",
+    "babel-preset-stage-2": "^6.22.0",
+    "cache-loader": "^1.2.2",
+    "copy-webpack-plugin": "^4.0.1",
+    "css-loader": "^0.28.0",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "file-loader": "^1.1.4",
+    "friendly-errors-webpack-plugin": "^1.6.1",
+    "html-webpack-plugin": "^2.30.1",
+    "optimize-css-assets-webpack-plugin": "^3.2.0",
+    "uglifyjs-webpack-plugin": "^1.1.1",
+    "vue": "^2.5.17",
+    "vue-loader": "^13.7.2",
+    "vue-style-loader": "^3.0.1",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^3.6.0",
+    "webpack-bundle-analyzer": "^2.9.0",
+    "webpack-dev-server": "^2.9.1",
+    "webpack-merge": "^4.1.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
