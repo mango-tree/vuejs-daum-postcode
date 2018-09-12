@@ -82,7 +82,7 @@ export default {
       default: null
     },
     defaultQuery: {
-      type: Object,
+      type: String,
       default: null
     },
     theme: {
