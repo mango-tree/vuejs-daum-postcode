@@ -8,6 +8,10 @@
   "scripts": {
     "build": "webpack --config ./webpack.config.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mango-tree/vuejs-daum-postcode.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^7.1.2",
