@@ -1,6 +1,6 @@
 {
   "name": "vuejs-daum-postcode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "daum postcode service made by Vue component",
   "author": { "name": "mango-tree", "email": "k.mingyu.95@gmail.com", "url": "http://mango-tree.github.io" },
   "private": true,
